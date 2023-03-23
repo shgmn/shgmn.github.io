@@ -1,4 +1,4 @@
-baseURL = 'http://shgmn.github.io/'
+baseURL = 'http://shgmn.github.io'
 languageCode = 'en-us'
 title = 'shgmn.github.io'
 theme = 'github-style'
