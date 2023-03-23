@@ -1,0 +1,17 @@
+baseURL = 'http://shgmn.github.io/'
+languageCode = 'en-us'
+title = 'shgmn.github.io'
+theme = 'github-style'
+
+[params]
+  author = "Takuya Shigemoto"
+  github = "shgmn"
+  facebook = "shigemoto.takuya"
+  twitter = "shgmn9"
+  instagram = "shgmn"
+  url = "https://shgmn.com/"
+  rss = true
+  lastmod = true
+  avatar = "/images/shgmn.png"
+  favicon = "/images/shgmn.png"
+
