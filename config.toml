@@ -2,6 +2,7 @@ baseURL = 'http://shgmn.github.io'
 languageCode = 'en-us'
 title = 'shgmn.github.io'
 theme = 'github-style'
+googleAnalytics = "G-8XKVKVZQ3G"
 
 [params]
   author = "Takuya Shigemoto"
